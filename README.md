@@ -154,6 +154,9 @@ Across every age group, smokers have higher average medical charges than non-smo
 
 ## 7. Power BI Dashboard
 
+### Dashboard Preview
+
+![Medical Cost Analysis Dashboard](screenshots/medical_cost_dashboard.png)
 The interactive dashboard presents the analysis through:
 
 **KPI Cards**
